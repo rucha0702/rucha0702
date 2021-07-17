@@ -1,4 +1,8 @@
-### Hi there 👋
+## HELLO PEOPLE 👋
+### I'm Rucha
+---
+
+Not been long since I started my journey in Web Development, I am eagerly exploring the world of Open Source and would love to contribute.
 
 <!--
 **rucha0702/rucha0702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
