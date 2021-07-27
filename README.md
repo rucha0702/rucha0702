@@ -2,7 +2,7 @@
 ### I'm Rucha <img width="40px" src="https://i.pinimg.com/originals/0d/a5/cb/0da5cbca5d728a789100439958f50235.gif" alt="m"/>
 ---
 
-#### Not been long since I started my journey in Web Development, I am eagerly exploring the world of Open Source and would love to contribute.
+#### It has not been long since I started my journey in Web Development, I am eagerly exploring the world of Open Source and would love to contribute.
 
 <!--
 **rucha0702/rucha0702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
