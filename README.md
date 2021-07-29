@@ -4,19 +4,26 @@
 
 #### It has not been long since I started my journey in Web Development, I am eagerly exploring the world of Open Source and would love to contribute.
 
+- 🔭 I’m currently working on Web development
+- 🌱 I’m currently learning JavaScript
+- 👯 I’m looking to collaborate on an Open Source project
+- 🤔 I’m looking for help with Git
+- 💬 Ask me about anyting(except biology)
+- ⚡ Fun fact: I hate cats
+
 <!--
 **rucha0702/rucha0702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on Web development
+- 🌱 I’m currently learning JavaScript
+- 👯 I’m looking to collaborate on an Open Source project
+- 🤔 I’m looking for help with Git
+- 💬 Ask me about space 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I hate cats
 -->
 ### Skills
 
