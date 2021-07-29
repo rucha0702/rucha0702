@@ -4,6 +4,8 @@
 
 #### It has not been long since I started my journey in Web Development, I am eagerly exploring the world of Open Source and would love to contribute.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rucha0702" alt="rucha0702" /> </p>
+
 - 🔭 I’m currently working on Web development
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on an Open Source project
