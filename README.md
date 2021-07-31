@@ -13,6 +13,8 @@
 - 💬 Ask me about anyting(except biology)
 - ⚡ Fun fact: I hate cats
 
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rucha0702&show_icons=true" alt="rucha0702" /></p>
 <!--
 **rucha0702/rucha0702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
