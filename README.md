@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on an Open Source project
 - 🤔 I’m looking for help with Git
 - 💬 Ask me about anyting(except biology)
-- ⚡ Fun fact: I hate cats
+
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rucha0702&show_icons=true" alt="rucha0702" /></p>
