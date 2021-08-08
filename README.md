@@ -1,8 +1,7 @@
 ## HELLO PEOPLE 👋
 ### I'm Rucha <img width="40px" src="https://i.pinimg.com/originals/0d/a5/cb/0da5cbca5d728a789100439958f50235.gif" alt="m"/>
 [![Twitter Badge](https://img.shields.io/badge/@rucha_k2-30302f?style=flat&logo=twitter&logoColor=white)](https://twitter.com/rucha_k2)
-
-[![Linkedin Badge](https://img.shields.io/badge/rucha-kasture-02-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/rucha-kasture-02/)
+[![Linkedin Badge](https://img.shields.io/badge/rucha-kasture02-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/rucha-kasture-02/)
 [![Codechef Badge](https://img.shields.io/badge/rucha_02-30302f?style=flat&logo=codechef)](https://medium.com/@naman360)
 [![Gmail Badge](https://img.shields.io/badge/rucha.kasture2002@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:rucha.kasture2002@gmail.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rucha0702" alt="rucha0702" /> </p>
