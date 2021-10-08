@@ -1,5 +1,5 @@
-## HELLO PEOPLE 👋
-### I'm Rucha <img width="40px" src="https://i.pinimg.com/originals/0d/a5/cb/0da5cbca5d728a789100439958f50235.gif" alt="m"/>
+# HELLO PEOPLE 👋
+## I'm Rucha <img width="40px" src="https://i.pinimg.com/originals/0d/a5/cb/0da5cbca5d728a789100439958f50235.gif" alt="m"/>
 [![Twitter Badge](https://img.shields.io/badge/@rucha_k2-30302f?style=flat&logo=twitter&logoColor=white)](https://twitter.com/rucha_k2)
 [![Linkedin Badge](https://img.shields.io/badge/rucha-kasture02-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/rucha-kasture-02/)
 [![Codechef Badge](https://img.shields.io/badge/rucha_02-30302f?style=flat&logo=codechef)](https://www.codechef.com/users/rucha_02)
@@ -10,9 +10,9 @@
 
 #### <p align="center">It has not been long since I started my journey in Web Development, I am eagerly exploring the world of Open Source and would love to contribute.</p>
 
-### Skills
+## Skills
 
-<p align="center"> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> 
+<p> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> 
 </p>
 
 - 🔭 I’m currently working on Web development
