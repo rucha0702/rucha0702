@@ -9,7 +9,7 @@
 
 ---
 
-#### <p align="center">I am a web developer passionate about technology and I'm eagerly exploring the world of Open Source and would love to contribute.</p>
+#### <p align="center">I am a web developer passionate about technology, eagerly exploring the world of Open Source and would love to contribute.</p>
 
 ## Skills
 
