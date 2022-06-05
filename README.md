@@ -1,4 +1,4 @@
- <img width="40px" src="https://i.pinimg.com/originals/0d/a5/cb/0da5cbca5d728a789100439958f50235.gif" alt="m"/>
+ <img align="center" width="20%" src="https://i.pinimg.com/originals/0d/a5/cb/0da5cbca5d728a789100439958f50235.gif" alt="m"/>
  
 [![Linkedin Badge](https://img.shields.io/badge/rucha-kasture02-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/rucha-kasture-02/)
 [![Profile Badge](https://img.shields.io/badge/Rucha_Kasture-30302f?style=flat&logo=netlify)](https://rucha-kasture.netlify.app/)
